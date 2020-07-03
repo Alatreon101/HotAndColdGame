@@ -13,6 +13,8 @@ public class HotColdGame {
 
     public static void main(String[] args) {
 
+        boolean yn;
+
         int maxNum = 100;
         int rndNum = rnd(maxNum);
         System.out.println(rndNum);
